@@ -23,7 +23,7 @@ Learning Mathematics is a tedious task that requires long periods of conscious e
 
 * Solve as many exercises as you can to challenge your understanding and problem-solving skills. Exercises can sometimes reveal weaknesses in your understanding. Unfortunately, there is no mathematical instruction manual for problem-solving, it is rather an essential skill that requires practice and develops by time. However, it could be greatly impacted by your level of understanding of the subject. The processes of learning and problem-solving are interrelated and no one of them is dispensable in the favor of the other.
 
-* Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own thoughts and consciously think about how you think. Thought is not passive, but an active process that could reflect on itself. Metcognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn. This gives us the ability to evaluate our own performance by utilizing past thought experience.
+* Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own knowledge and thoughts and consciously think about how you think and acquire knowledge. Thought is not passive, but an active process that could reflect on itself. Metcognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn. This gives us the ability to evaluate our own performance by utilizing past thought experience.
 
 ## Roadmap Image
 The file `mathematics-roadmap.jpg` is an image of the roadmap.
