@@ -25,5 +25,8 @@ Learning Mathematics is a tedious task that requires long periods of conscious e
 
 * Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own thoughts and consciously think about how you think. Thought is not passive, but an active process that could reflect on itself. Metcognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn and make us the able to evaluate our performance by utilizing past thought experience.
 
+## Roadmap Image
+The file `mathematics-roadmap.jpg` is an image of the roadmap.
+
 ## Software
 The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
