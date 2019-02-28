@@ -29,7 +29,7 @@ Learning Mathematics is a tedious task that requires long periods of conscious e
 
 * Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own knowledge and thoughts and consciously think about how you think and acquire knowledge. Thought is not passive, but an active process that could reflect on itself. Metacognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn. This gives us the ability to evaluate our own performance by utilizing past thought experience.
 
-* Teach what you have learned to someone else or at least imagine that you are explaining what you learned to someone in the best possible way (which is also known as the Feynman Technique). This forces you to elaborately rethink what you have learned which could make you discover any weaknesses in your understanding.
+* Teach what you have learned to someone else or at least imagine that you are explaining what you learned to someone in the best possible way (which is also known as the Feynman Technique). This forces you to elaborately rethink what you have learned which could help you discover any weaknesses in your understanding.
 
 ## Reading Tips
 How should one approach books? Should the reader go through every word from the first page to the last page? Should you solve every single problem? These questions are typical regarding to book reading, and answering them is not a straightforward task. We will provide general guidelines, and accordingly the reader should find suitable answers for these questions.
