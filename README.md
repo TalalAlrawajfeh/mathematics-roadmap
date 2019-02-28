@@ -4,6 +4,10 @@ A Comprehensive Roadmap to Mathematics _(in progress)_
 ## Audience
 This roadmap is primarily intended for students of Mathematics. This doesn't necessarily mean that students from other disciplines such as Physics and Computer Science won't benefit from it; however, looking at the roadmap could be overwhelming for them, but this is because Mathematics has many areas and the roadmap was intended to be comprehensive to include them. 
 
+## Roadmap Image
+The file `mathematics-roadmap.jpg` contains the image of the roadmap.
+![roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap/raw/master/mathematics-roadmap.jpg)
+
 ## Philosophy
 
 ### Problems with learning Mathematics
@@ -25,8 +29,7 @@ Learning Mathematics is a tedious task that requires long periods of conscious e
 
 * Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own knowledge and thoughts and consciously think about how you think and acquire knowledge. Thought is not passive, but an active process that could reflect on itself. Metcognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn. This gives us the ability to evaluate our own performance by utilizing past thought experience.
 
-## Roadmap Image
-The file `mathematics-roadmap.jpg` is an image of the roadmap.
+## Reading Tips
 
 ## Software
 The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
