@@ -27,6 +27,7 @@ Learning Mathematics is a tedious task that requires long periods of conscious e
 
 ## Roadmap Image
 The file `mathematics-roadmap.jpg` is an image of the roadmap.
+![roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap/raw/master/mathematics-roadmap.jpg)
 
 ## Software
 The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
