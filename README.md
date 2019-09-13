@@ -1,6 +1,8 @@
 # mathematics-roadmap
 A Comprehensive Roadmap to Mathematics _(in progress)_
 
+Keywords: `mathematics roadmap`, `mathematics`, `roadmap`, `mathematics study plan`, `mathematics references`, `references`, `mathematics books`, `books`
+
 ## Audience
 This roadmap is primarily intended for students of Mathematics. This doesn't necessarily mean that students from other disciplines such as Physics and Computer Science won't benefit from it; however, looking at the roadmap could be overwhelming for them, but this is because Mathematics has many areas and the roadmap was intended to be comprehensive to include them. 
 
