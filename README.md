@@ -18,6 +18,8 @@ There are several problems with the way Mathematics is presented and taught toda
 ### Objective
 I don't intend here to offer solutions to the problems mentioned above; however, using the best _(pedagogically best)_ of available references, I wish to construct an effective and comprehensive roadmap for learning Mathematics which approximates my idea of good mathematical exposition.
 
+I emphasize the importance of the relation of other subjects to Mathematics. Of course, Philosophy lays down the conceptual framework that encompasses the entirety of human knowledge so it relates to any field or science not just Mathematics but Philosophy always had a special relationship with Mathematics and anyone who reads Philosophy can clearly  see that. Philosophy impacts one's thought and makes him independent, aware, self-reflective, critical, rigorous, and always seeking for deep understanding. Although I started the roadmap with Philosophy because of my obvious bias, you can skip it but I highly recommend reading at least one book. Also, there are many other important subjects such as Computer Science and Physics which are strongly connected to Mathematics if not sometimes regarded as subsets of Mathematics. Throughout history, Mathematics was strongly influenced by these subjects, and in turn, Mathematics also influenced them. Many ideas in Mathematics have their origins in problems in subjects elsewhere so these subjects are extremely useful for motivating these ideas.
+
 ### Learning Tips
 Learning Mathematics is a tedious task that requires long periods of conscious effort and patience. I offer some tips which I consider to be of great importance when learning any subject within Mathematics (which could be applied elsewhere).
 
