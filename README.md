@@ -50,5 +50,11 @@ How should one approach books? Should the reader go through every word from the 
 
 * Read critically. Books are written by people and they are not perfect. Don't take everything for granted. Think for yourself, and always ask yourself how would you write whatever you are reading. If you found out a better way to explain a concept, then write it down and keep it as a note.
 
+### How to use the Roadmap
+
+The roadmap consists of topics, each represented as a labeled group of rectangles. The arrow connecting two groups (say from A to B) represents a dependency (B depends on A). Sometimes the dependency of either of the topics on the other is vague or they are interrelated so a two-sided arrow is used. Colors indicate whether the topics are essential (you can't skip them), optional but recommended (they are not essential but very beneficial), or optional (reading them or skipping them is up to you so they are just regarded as additional information). The legend indicates these colors.
+
+Each topic has multiple books. This is since any two books in a single topic are either mostly similar but differ in a few aspects (e.g. how they explain some concepts or how the subjects are ordered) or they complement one another (so one book has subjects not discussed in the other). I recommend that the reader should look at the preface and/or introduction and the table of contents to see whether the book satisfies his/her needs and to be able to compare the differences between the books easily.
+
 ## Software
 The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
