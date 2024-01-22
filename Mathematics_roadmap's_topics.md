@@ -1,4 +1,4 @@
-###**Introduction to Philosophy (Optional but Recommended):**
+###Introduction to Philosophy (Optional but Recommended):
 
 Think: A Compelling Introduction to Philosophy
 Simon Blackburn
