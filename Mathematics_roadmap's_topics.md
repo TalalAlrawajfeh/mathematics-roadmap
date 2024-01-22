@@ -9,7 +9,7 @@ Manuel Velasquez
 Thinking It Through: An Introduction to Contemporary Philosophy
 Kwame Appiah
 ***
-**Introduction to Logic (Optional but Recommended):**
+### **Introduction to Logic (Optional but Recommended):**
 
 The Power of Logic
 Frances Howard-Snyder, Daniel Howard-Snyder, Ryan Wasserman
