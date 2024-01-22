@@ -1,4 +1,4 @@
-### Introduction to Philosophy (Optional but Recommended):
+### **Introduction to Philosophy (Optional but Recommended):**
 
 Think: A Compelling Introduction to Philosophy
 Simon Blackburn
@@ -17,7 +17,7 @@ Frances Howard-Snyder, Daniel Howard-Snyder, Ryan Wasserman
 A Concise Introduction to Logic
 Patrick J. Hurely
 ***
-**Precalculus :**
+### **Precalculus :**
 
 Precalculus: Mathematics for Calculus
 James Stewart, Lothar Redlin, Saleem Watson
@@ -25,7 +25,7 @@ James Stewart, Lothar Redlin, Saleem Watson
 Precalculus
 Michael Sullivan
 ***
-**Calculus :**
+### **Calculus :**
 
 Calculus: Early Transcendentals
 James Stewart
@@ -36,7 +36,7 @@ Steven H. Strogatz (Optional but Recommended).
 Thomas' Calculus
 George B. Thomas, Jr.
 ***
-**Problem Solving (Optional but Recommended):**
+### **Problem Solving (Optional but Recommended):**
 
 How to Solve It
 G. Polya
@@ -49,7 +49,7 @@ Wayne Wickelgren
 
 Mathematical Discovery: On Understanding, Learning and Teaching Problem Solving, George Polya
 ***
-**Introduction to Physics (Optional):**
+### **Introduction to Physics (Optional):**
 Physics for Scientists and Engineers with Modern Physics
  Raymond A. Serway, John W. Jewett Jr.
 
@@ -59,7 +59,7 @@ James T. Shipman, Jerry D. Wilson, Charles A. Higgens Jr.
 Physics for Scientists and Engineers: A Strategic Approach with Modern Physics
 Randall D. Knight
 ***
-**Introduction to Linear Algebra :**
+### **Introduction to Linear Algebra :**
 
 Elementary Linear Algebra
 Howard Anton, Chris Rorres
@@ -70,7 +70,7 @@ Gilbert Strang
 Linear Algebra and Its Applications
 David C. Lay, Steven R. Lay, Judi J. McDonald
 ***
-**Introduction to Differential Equations :**
+### **Introduction to Differential Equations :**
 
 Elementary Differential Equations and Boundary Value Problems
 William E. Boyce, Richard C. DiPrima
@@ -81,7 +81,7 @@ Dennis Zill, Warren Wright
 Fundamentals of Differential Equations
 David Snider, Edward B. Saff, and R. Kent Nagle
 ***
-**Introduction to Partial Differential Equations :**
+### **Introduction to Partial Differential Equations :**
 
 Partial Differential Equations for Scientists and Engineers
 Stanley J. Farlow
@@ -95,7 +95,7 @@ Walter A. Strauss
 Partial Differential Equations
 Mark A. Pinsky
 ***
-**Naive Set Theory, Mathematical Reasoning, Proofs:**
+### **Naive Set Theory, Mathematical Reasoning, Proofs:**
 
 How to Prove It
 Daniel J. Velleman
@@ -109,7 +109,7 @@ Richard Hammak
 Proofs and Fundamentals
 Ethan D. Bloch
 ***
-**Discrete Mathematics :** 
+### **Discrete Mathematics :** 
 
 Discrete Mathematics with Applications
 Susanna S. Epp
@@ -120,7 +120,7 @@ Kenneth H. Rosen
 Mathematics: A Discrete Introduction
 Edward R. Scheinerman
 ***
-**Introduction to Axiomatic Set Theory :**
+### **Introduction to Axiomatic Set Theory :**
 
 Classic Set Theory
 Derek Goldrei
@@ -137,7 +137,7 @@ A.A. Fraenkel. Y. Bar-Hillel, A. Levy
 A First Course in Mathematical Logic and Set Theory
 Michael L. O'Leary
 ***
-**Introduction to Mathematical Logic and Model Theory :**
+### **Introduction to Mathematical Logic and Model Theory :**
  
 Mathematical Logic
 Ian Chiswell, Wilfrid Hodges
@@ -157,7 +157,7 @@ Christopher C. Leary
 Introduction to Mathematical Logic
 Elliott Mendelson
 ***
-**Introduction to the Theory of Computation :** 
+### **Introduction to the Theory of Computation :** 
 
 Introduction to the Theory of Computation
 Michael Sipser
@@ -168,7 +168,7 @@ Herbert Enderton
 Introduction to Languages and the Theory of Computation
 John C. Martin
 ***
-**Introduction to Lattice Theory :**
+### **Introduction to Lattice Theory :**
 
 Lattices and Ordered Sets
 Steven Roman
@@ -176,7 +176,7 @@ Steven Roman
 Introduction to Lattices and Order
 B.A. Davey
 ***
-**Universal Algebra :**
+### **Universal Algebra :**
 
 Universal Algebra
 P.M. Cohn
@@ -196,7 +196,7 @@ Clifford Bergman
 Post-Modern Algebra
 Jonathan D. H. Smith, Anna B. Romanowska
 ***
-**Introduction to Combinatorics :**
+### **Introduction to Combinatorics :**
 
 Combinatorial Reasoning: An Introduction to the Art of Counting
 Duane DeTemple, William Webb
@@ -210,7 +210,7 @@ Theodore G. Faticoni
 How to Count: An Introduction to Combinatorics and Its Applications
 Robert A. Beeler
 ***
-**Introduction to Probability Theory :** 
+### **Introduction to Probability Theory :** 
 
 introduction to Probability
 Dimitri Berstekas, John N. Tsitsiklis
@@ -224,7 +224,7 @@ R. Meester
 Introduction to Probability
 Joseph K. Blitzstein, Jessica Hwang
 ***
-**Introduction to Game Theory :** 
+### **Introduction to Game Theory :** 
 
 Game Theory
 Steven Tadelis 
@@ -238,7 +238,7 @@ Shaun P. Hargreaves Heap, Yanis Varoufakis
 Game Theory Evolving: A Problem-Centered Introduction to Modeling Strategic Interaction
 Herbert Gintis
 ***
-**Introduction to Mathematical Statistics :**
+### **Introduction to Mathematical Statistics :**
 
 Introduction to Probability and Mathematical Statistics
 Lee J. Bain, Max Engelhardt
@@ -258,7 +258,7 @@ F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester
 Modern Mathematical Statistics with Applications
 Jay L. Devore, Kenneth N. Berk
 ***
-**Advanced Probability Theory :**
+### **Advanced Probability Theory :**
 
 An Introduction to Probability and Statistics
 V. K. Rohatgi, A. K. Md. E. Saleh
@@ -278,7 +278,7 @@ Patrick Billingsley
 Probability
 A. N. Shiryayev
 ***
-**Advanced Mathematical Statistics :**
+### **Advanced Mathematical Statistics :**
 
 Statistical Inference
 George Casella, Roger L. Berger
@@ -298,7 +298,7 @@ Larry Wasserman
 All of Nonparametric Statistics
 Larry Wasserman
 ***
-**Introduction to Real Analysis:**
+### **Introduction to Real Analysis:**
 
 Introduction to Real Analysis
 Robert G. Bartle, Donald R. Sherbert
@@ -315,7 +315,7 @@ Steen Pedersen
 Writing Proofs in Analysis
 Jonathan M. Kane
 ***
-**Introduction to Numerical Analysis :** 
+### **Introduction to Numerical Analysis :** 
 
 Numerical Analysis
 Timothy Sauer
@@ -329,7 +329,7 @@ Forman S. Acton
 An Introduction to Numerical Methods and Analysis
 James F. Epperson
 ***
-**Introduction to General Topology :** 
+### **Introduction to General Topology :** 
 
 General Topology
 Stephen Willard
@@ -349,7 +349,7 @@ Wilson A. Sutherland
 Topology
 James Munkres
 ***
-**Introduction to Mathematical Analysis :** 
+### **Introduction to Mathematical Analysis :** 
 
 Principles of Mathematical Analysis
 Walter Rudin
@@ -369,7 +369,7 @@ C. H. Edwards Jr.
 Calculus and Analysis in Euclidean Space
 Jerry Shurman
 ***
-**Introduction to Optimization Theory :** 
+### **Introduction to Optimization Theory :** 
 
 A First Course in Optimization Theory
 Rangarajan K. Sundaram
@@ -386,7 +386,7 @@ Philip E. Gill, Walter Murray, Margaret H. Wright
 An Introduction to Optimization
 Edwin K.P. Chong, Stanislaw H. Zak
 ***
-**Convex Optimization :**
+### **Convex Optimization :**
 
 Convex Optimization Theory
 Dimitri P. Bertsekas
@@ -400,7 +400,7 @@ Jonathan M. Borwein, Adrian S. Lewis
 Foundations of Optimization
 Osman Güler
 ***
-**Introduction to Differential Geometry :**
+### **Introduction to Differential Geometry :**
 
 A Differential Approach to Geometry
 Francis Borceux
@@ -417,7 +417,7 @@ Barrett O'Neill
 Elementary Differential Geometry
 Andrew Pressley
 ***
-**Advanced Differential Geometry :**
+### **Advanced Differential Geometry :**
 
 Manifolds, Tensors and Forms
 Paul Renteln
@@ -434,7 +434,7 @@ Michael Spivak
 First Steps in Differential Geometry
 Andrew Mclnerney
 ***
-**Introduction to Functional Analysis :** 
+### **Introduction to Functional Analysis :** 
 
 Introductory Functional Analysis with Applications
 Erwin Kreyszig
@@ -442,7 +442,7 @@ Erwin Kreyszig
 Principles of Functional Analysis
 Martin Schechter
 ***
-**Advanced Mathematical Analysis:**
+### **Advanced Mathematical Analysis:**
 
 Real Analysis
 Elias M. Stein, Rami Shakarchi
@@ -456,7 +456,7 @@ Gerald B. Folland
 Real Analysis
 H.L. Royden, P.M. Fitzpatrick
 ***
-**Introduction to Complex Analysis :** 
+### **Introduction to Complex Analysis :** 
 
 Complex Analysis
 John M. Howie
@@ -473,7 +473,7 @@ James Ward Brown, Ruel Churchill
 Complex Analysis with Applications
 Dennis G. Zill
 ***
-**Introduction to Number Theory :**
+### **Introduction to Number Theory :**
 
 Elementary Number Theory
 David Burton
@@ -484,7 +484,7 @@ Thomas Koshy
 Elementary Number Theory
 Kenneth H. Rosen
 ***
-**Introduction to Abstract Algebra :**
+### **Introduction to Abstract Algebra :**
 
 Contemporary Abstract Algebra
 Joseph A. Gallian
@@ -498,7 +498,7 @@ Frederick Goodman
 A First Course in Abstract Algebra
 Joseph J. Rotman
 ***
-**Advanced Linear Algebra :**
+### **Advanced Linear Algebra :**
 
 Linear Algebra Done Right
 Sheldon Axler
@@ -515,7 +515,7 @@ Sergei Treil
 Linear Algebra
 Georgi E. Shilov & Richard A. Silverman
 ***
-**Advanced Abstract Algebra :** 
+### **Advanced Abstract Algebra :** 
 
 Algebra
 Thomas Hungerford
@@ -544,7 +544,7 @@ Paolo Aluffi
 Introduction to Commutative Algebra
 M. F. Atiyah & I. G. MacDonald
 ***
-**Algebraic Number Theory :**
+### **Algebraic Number Theory :**
 
 Number Fields
 Daniel A. Marcus
@@ -552,7 +552,7 @@ Daniel A. Marcus
 An Introduction to the Theory of Numbers
 Ivan Niven, Herbert S. Zuckerman, Hugh L. Montgomery
 ***
-**Motivation for Category Theory :**
+### **Motivation for Category Theory :**
 
 Conceptual Mathematics
 F. William Lawvere, Stephen H. Schanuel
@@ -563,7 +563,7 @@ F.W. Lawvere, R. Rosebrugh
 Arrows Structures and Functors: The Categorical Imperative
 Michael A. Arbib
 ***
-**Introduction to Category Theory :** 
+### **Introduction to Category Theory :** 
 
 Category Theory
 Steve Awodey
@@ -580,7 +580,7 @@ Jiri Adamek
 Category Theory: A Gentle Introduction
 Peter Smith
 ***
-**Algebraic Topology Motivation :**
+### **Algebraic Topology Motivation :**
 
 Invitation to Combinatorial Topology
 Maurice Frechet and Ky Fan
@@ -597,7 +597,7 @@ John G. Hocking, Gail S. Young
 Topology
 Klaus Janich
 ***
-**Introduction to Algebraic Topology :**
+### **Introduction to Algebraic Topology :**
 
 Algebraic Topology: An Introduction
 William Massey
@@ -611,7 +611,7 @@ C. Kosniowski
 Elements of Algebraic Topology
 James Munkres
 ***
-**Algebraic Geometry Motivation :** 
+### **Algebraic Geometry Motivation :** 
 
 Ideals Varieties and Algorithms
 David A. Cox, John Little, Donal O'Shea
@@ -619,7 +619,7 @@ David A. Cox, John Little, Donal O'Shea
 Introduction to Algebraic Geometry
 Brendan Hassett
 ***
-**Introduction to Algebraic Geometry :**
+### **Introduction to Algebraic Geometry :**
 
 Basic Algebraic Geometry
 Igor R. Shafarevich
@@ -636,7 +636,7 @@ Keith Kendig
 Introduction to Algebraic Geometry
 Justin R. Smith
 ***
-**Euclidean and Non-Euclidean Geometry :** 
+### **Euclidean and Non-Euclidean Geometry :** 
 
 Foundations of Euclidean and Non-Euclidean Geometry
 Ellery B. Golos
