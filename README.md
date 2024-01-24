@@ -56,5 +56,7 @@ The roadmap consists of topics, each represented as a labeled group of rectangle
 
 Each topic has multiple books. This is since any two books in a single topic are either mostly similar but differ in a few aspects (e.g. how they explain some concepts or how the subjects are ordered) or they complement one another (so one book has subjects not discussed in the other). I recommend that the reader should look at the preface and/or introduction and the table of contents to see whether the book satisfies his/her needs and to be able to compare the differences between the books easily.
 
+You have a file `'Mathematics_roadmap's_topics.md` that contain all topics of the roadmap textully if text format suit you better. You need to arrange your own roadmap using the grphical roadmap. 
+
 ## Software
 The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
