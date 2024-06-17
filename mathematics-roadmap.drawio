@@ -1,1 +1,1110 @@
-<mxfile host="Chrome" modified="2021-11-27T09:34:50.196Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7PjeLbm3W5N1TMAnHvJ7" version="15.5.6" type="device"><diagram id="uAUSS5AuCfC497PnXvrO" name="Page-1">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</diagram></mxfile>
+<mxfile host="Electron" modified="2024-06-17T13:14:25.767Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="hajiQb9jVSigGS4sBuIq" version="24.5.3" type="device">
+  <diagram id="uAUSS5AuCfC497PnXvrO" name="Page-1">
+    <mxGraphModel dx="4341" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-1" value="Legend" style="swimlane;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1320" y="-1100" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-2" value="Optional" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+          <mxGeometry x="30" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-3" value="Optional but Recommended" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+          <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-4" value="Essential&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+          <mxGeometry x="30" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-46" value="" style="endArrow=classic;html=1;" parent="ZpYR9GBJYjBJ57970Wno-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="210" as="sourcePoint" />
+            <mxPoint x="105" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-47" value="One way Dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+          <mxGeometry x="40" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-48" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="ZpYR9GBJYjBJ57970Wno-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="280" as="sourcePoint" />
+            <mxPoint x="105" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-49" value="Interrelation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+          <mxGeometry x="40" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-6" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=30;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-7" target="ZpYR9GBJYjBJ57970Wno-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-579" y="-1040" as="sourcePoint" />
+            <mxPoint x="-579" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-7" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-8" target="ZpYR9GBJYjBJ57970Wno-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-8" value="Introduction to Philosophy" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="-760" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-9" value="Think: A Compelling Introduction to Philosophy&lt;br&gt;&lt;b&gt;Simon Blackburn&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-8" vertex="1">
+          <mxGeometry x="140" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-10" value="Philosophy: A Text with Readings&lt;br&gt;&lt;b&gt;Manuel Velasquez&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-8" vertex="1">
+          <mxGeometry x="10" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-11" value="Thinking It Through: An Introduction to Contemporary Philosophy&lt;br&gt;&lt;b&gt;Kwame Appiah&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-8" vertex="1">
+          <mxGeometry x="230" y="120" width="241" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-16" target="ZpYR9GBJYjBJ57970Wno-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-16" target="HZ-TQ83FuogPrPlQnaqr-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-16" value="Introduction to Logic" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="-440" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-17" value="The Power of Logic&lt;br&gt;&lt;b&gt;Frances Howard-Snyder, Daniel Howard-Snyder, Ryan Wasserman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-16" vertex="1">
+          <mxGeometry x="10" y="40" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-18" value="A Concise Introduction to Logic&lt;br&gt;&lt;b&gt;Patrick J. Hurely&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-16" vertex="1">
+          <mxGeometry x="210" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-20" target="ZpYR9GBJYjBJ57970Wno-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-20" value="Precalculus" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="-200" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-21" value="Precalculus: Mathematics for Calculus&lt;br&gt;&lt;b&gt;James Stewart, Lothar Redlin, Saleem Watson&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-20" vertex="1">
+          <mxGeometry x="10" y="40" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-32" value="Precalculus&lt;br&gt;&lt;b&gt;Michael Sullivan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-20" vertex="1">
+          <mxGeometry x="200" y="40" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-36" target="ZpYR9GBJYjBJ57970Wno-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-36" target="ZpYR9GBJYjBJ57970Wno-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-36" target="ZpYR9GBJYjBJ57970Wno-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-36" value="Calculus" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-37" value="Calculus: Early Transcendentals&lt;br&gt;&lt;b&gt;James Stewart&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-36" vertex="1">
+          <mxGeometry x="125" y="40" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-44" value="Infinite Powers: How Calculus Reveals the Secrets of the Universe&lt;br&gt;&lt;b&gt;Steven H. Strogatz&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-36" vertex="1">
+          <mxGeometry x="20" y="140" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-48" value="Thomas&#39; Calculus&lt;br&gt;&lt;b&gt;George B. Thomas, Jr.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-36" vertex="1">
+          <mxGeometry x="230" y="140" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-39" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="ZpYR9GBJYjBJ57970Wno-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-982.5" y="-1050" as="sourcePoint" />
+            <mxPoint x="-981" y="-256" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-980" y="-140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-40" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1040" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-49" target="ZpYR9GBJYjBJ57970Wno-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-49" target="ZpYR9GBJYjBJ57970Wno-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-49" value="Introduction to Linear Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-718.75" y="400" width="357.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-50" value="Elementary Linear Algebra&lt;br&gt;&lt;b&gt;Howard Anton, Chris Rorres&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-49" vertex="1">
+          <mxGeometry x="98.75" y="42.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-51" value="Introduction to Linear Algebra &lt;br&gt;&lt;b&gt;Gilbert Strang&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-49" vertex="1">
+          <mxGeometry x="15" y="120" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-52" value="Linear Algebra and Its Applications &lt;br&gt;&lt;b&gt;David C. Lay, Steven R. Lay, Judi J. McDonald&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-49" vertex="1">
+          <mxGeometry x="165" y="120" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-54" target="xL-RMtT2ga-J8ltklIkg-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-54" value="Introduction to Differential Equations" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="365" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-55" value="Elementary Differential Equations and Boundary Value Problems&lt;br&gt;&lt;b&gt;William E. Boyce, Richard C. DiPrima&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-54" vertex="1">
+          <mxGeometry x="22.5" y="40" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-57" value="Fundamentals of Differential Equations&lt;br&gt;&lt;span&gt;&lt;b&gt;David Snider, Edward B. Saff, and R. Kent Nagle&lt;/b&gt;&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-54" vertex="1">
+          <mxGeometry x="25" y="195" width="234" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-58" value="Differential Equations&lt;br&gt;&lt;b&gt;Dennis Zill, Warren Wright&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-54" vertex="1">
+          <mxGeometry x="25" y="115" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-66" value="Problem Solving" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="20" width="310" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-67" value="How to Solve It&lt;br&gt;&lt;b&gt;G. Polya&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-66" vertex="1">
+          <mxGeometry x="19.92" y="40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-68" value="Solving Mathematical Problems&lt;br&gt;&lt;b&gt;Terence Tao&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-66" vertex="1">
+          <mxGeometry x="150.08999999999997" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-69" value="&lt;div&gt;Mathematical Discovery: On Understanding, Learning and Teaching Problem Solving&lt;/div&gt;&lt;div&gt;&lt;b&gt;George Polya&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-66" vertex="1">
+          <mxGeometry x="19.92" y="200" width="270.17" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-70" value="&lt;div&gt;How to Solve Mathematical Problems&lt;/div&gt;&lt;div&gt;&lt;b&gt;Wayne Wickelgren&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-66" vertex="1">
+          <mxGeometry x="40" y="120" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-72" value="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="720" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-74" value="How to Prove It&lt;br&gt;&lt;b&gt;Daniel J. Velleman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+          <mxGeometry x="20" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-76" value="Introduction to Mathematical Proofs&lt;br&gt;&lt;b&gt;Charles E. Roberts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+          <mxGeometry x="160" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-77" value="Proofs and Fundamentals&lt;br&gt;&lt;b&gt;Ethan D. Bloch&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+          <mxGeometry x="480" y="40" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-75" value="Book Of Proof&lt;br&gt;&lt;b&gt;Richard Hammak&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+          <mxGeometry x="340" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-95" value="Discrete Mathematics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+          <mxGeometry x="50" y="110" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-73" value="Discrete Mathematics with Applications&lt;br&gt;&lt;b&gt;Susanna S. Epp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-95" vertex="1">
+          <mxGeometry x="10" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-85" value="Discrete Mathematics and Its Applications&lt;br&gt;&lt;b&gt;Kenneth H. Rosen&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-95" vertex="1">
+          <mxGeometry x="196" y="40" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-102" value="&lt;div&gt;Mathematics: A Discrete Introduction&lt;/div&gt;&lt;div&gt;&lt;b&gt;Edward R. Scheinerman&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-95" vertex="1">
+          <mxGeometry x="380" y="40" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-109" value="Introduction to Physics" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1300" y="50" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-110" value="Physics for Scientists and Engineers with Modern Physics&lt;br&gt;&lt;b&gt;Raymond A. Serway, John W. Jewett Jr.&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-109" vertex="1">
+          <mxGeometry x="15" y="44" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-112" value="An Introduction to Physical Science&lt;br&gt;&lt;b&gt;James T. Shipman, Jerry D. Wilson, Charles A. Higgens Jr.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-109" vertex="1">
+          <mxGeometry x="220" y="44" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-115" value="Physics for Scientists and Engineers: A Strategic Approach with Modern Physics&lt;br&gt;&lt;b&gt;Randall D. Knight&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-109" vertex="1">
+          <mxGeometry x="115" y="130" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-117" target="ZpYR9GBJYjBJ57970Wno-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-117" target="HZ-TQ83FuogPrPlQnaqr-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-117" target="HZ-TQ83FuogPrPlQnaqr-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-117" value="Introduction to Programming with Python" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="793.5" width="320" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-118" value="Head First Python&lt;br&gt;&lt;b&gt;Paul Barry&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-117" vertex="1">
+          <mxGeometry x="10" y="38" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-119" value="&lt;div&gt;Think Python: How to think like a computer scientist&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allen B. Downey&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-117" vertex="1">
+          <mxGeometry x="82.5" y="113" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-120" value="A Beginners Guide to Python 3 Programming&lt;br&gt;&lt;b&gt;John Hunt&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-117" vertex="1">
+          <mxGeometry x="160" y="38" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-1" target="HZ-TQ83FuogPrPlQnaqr-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-1" target="HZ-TQ83FuogPrPlQnaqr-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-1" target="HZ-TQ83FuogPrPlQnaqr-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-1" value="Introduction to the Philosophy of Mathematics and Logic" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="280" width="650" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-2" value="Introduction to Logic and to the Methodology of the Deductive Sciences&lt;br&gt;&lt;b&gt;Alfred Tarski&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="10" y="39" width="234" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-3" value="Introduction to Mathematical Philosophy&lt;br&gt;&lt;b&gt;Bertrand Russell&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="10" y="200" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-4" value="Mathematical Thought: An Introduction to The Philosophy of Mathemematics&lt;br&gt;&lt;b&gt;Evert W. Beth&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="196" y="120" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-5" value="On the Philosophy of Logic&lt;br&gt;&lt;b&gt;Jennifer Fisher&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="270" y="39" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-6" value="Philosophy of Logics&lt;br&gt;&lt;b&gt;Susan Haack&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="480" y="200" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-7" value="Philosophy of Mathematics&lt;br&gt;&lt;b&gt;James Robert Brown&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="10" y="120" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-9" value="The Foundations of Arithmetic&lt;br&gt;&lt;b&gt;Gottlob Frege&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="460" y="120" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-10" value="The Concept of Logical Consequence&lt;br&gt;&lt;b&gt;John Etchemendy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="470" y="39" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-12" value="The Concept of Logical Consequence: An Introduction to Philosophical Logic&lt;br&gt;&lt;b&gt;Matthew W. McKeon&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
+          <mxGeometry x="210" y="200" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-14" target="HZ-TQ83FuogPrPlQnaqr-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-14" target="XHwMdBdWKg2Phqc04OuS-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-14" target="XHwMdBdWKg2Phqc04OuS-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-14" value="Introduction to Axiomatic Set Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="460" y="685" width="600" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-15" value="Classic Set Theory&lt;br&gt;&lt;b&gt;Derek Goldrei&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
+          <mxGeometry x="115" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-16" value="Elements of Set Theory&lt;br&gt;&lt;b&gt;Herbert Enderton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
+          <mxGeometry x="20" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-17" value="Introduction to Set Theory&lt;br&gt;&lt;b&gt;Karel Hrbacek, Thomas Jech&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
+          <mxGeometry x="296.5" y="40" width="183.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-18" value="Foundations of Set Theory&lt;br&gt;&lt;b&gt;A.A. Fraenkel. Y. Bar-Hillel, A. Levy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
+          <mxGeometry x="200" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-19" value="A First Course in Mathematical Logic and Set Theory&lt;br&gt;&lt;b&gt;Michael L. O&#39;Leary&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
+          <mxGeometry x="383" y="110" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-29" value="Introduction to Mathematical Logic and Model Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="680" width="600" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-30" value="Mathematical Logic&lt;br&gt;&lt;b&gt;Ian Chiswell, Wilfrid Hodges&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="15" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-31" value="Propositional and Predicate Calculus&lt;br&gt;&lt;b&gt;Derek Goldrei&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="15" y="120" width="183" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-32" value="A Mathematical Introduction to Logic&lt;br&gt;&lt;b&gt;Herbert Enderton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="210" y="40" width="183" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-33" value="A Friendly Introduction to Mathematical Logic&lt;br&gt;&lt;b&gt;Christopher C. Leary&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="213" y="120" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-34" value="A First Course in Logic&lt;br&gt;&lt;b&gt;Shawn Hedman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="410" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-35" value="Introduction to Mathematical Logic&lt;br&gt;&lt;b&gt;Elliott Mendelson&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
+          <mxGeometry x="415" y="120" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-37" value="Introduction to the Theory of Computation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="1900" y="680" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-38" value="&lt;span&gt;Introduction to the Theory of Computation&lt;br&gt;&lt;b&gt;Michael Sipser&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-37" vertex="1">
+          <mxGeometry x="14" y="40" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-39" value="&lt;span&gt;Introduction to Languages and the Theory of Computation&lt;br&gt;&lt;b&gt;John C. Martin&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-37" vertex="1">
+          <mxGeometry x="68.75" y="120" width="222.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-40" value="Computability Theory &lt;b&gt;Herbert Enderton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-37" vertex="1">
+          <mxGeometry x="200" y="40" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-45" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-29" target="HZ-TQ83FuogPrPlQnaqr-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1640" y="900" as="sourcePoint" />
+            <mxPoint x="1690" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-56" target="HZ-TQ83FuogPrPlQnaqr-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-56" value="Introduction to the Philosophy of Language" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="1304.5" y="-40" width="351" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-57" value="Philosophy of Language&lt;br&gt;&lt;b&gt;Alexander Miller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-56" vertex="1">
+          <mxGeometry x="15.5" y="40" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-58" value="Philosophy of Language&lt;br&gt;&lt;b&gt;William G. Lycan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-56" vertex="1">
+          <mxGeometry x="15.5" y="120" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-59" value="An Introduction to the Philosophy of Language&lt;br&gt;&lt;b&gt;Michael Morris&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-56" vertex="1">
+          <mxGeometry x="178" y="40" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-60" value="Philosophy of Language An Introduction&lt;br&gt;&lt;b&gt;Chris Daly&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-56" vertex="1">
+          <mxGeometry x="171.75" y="120" width="164.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-63" target="HZ-TQ83FuogPrPlQnaqr-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-63" target="HZ-TQ83FuogPrPlQnaqr-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-63" target="HZ-TQ83FuogPrPlQnaqr-138" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-900" y="1180" />
+              <mxPoint x="-900" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-63" value="Introduction to Real Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-838.5" y="1080" width="597" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-64" value="Introduction to Real Analysis&lt;br&gt;&lt;b&gt;Robert G. Bartle, Donald R. Sherbert&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
+          <mxGeometry x="114.5" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-65" value="How to Think About Analysis&lt;br&gt;&lt;b&gt;Lara Alcock&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
+          <mxGeometry x="23.5" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-66" value="Introduction to Real Analysis&lt;br&gt;&lt;b&gt;William F. Trench&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
+          <mxGeometry x="310" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-67" value="From Calculus to Analysis&lt;br&gt;&lt;b&gt;Steen Pedersen&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
+          <mxGeometry x="218.5" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-68" value="Writing Proofs in Analysis&lt;br&gt;&lt;b&gt;Jonathan M. Kane&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
+          <mxGeometry x="408.5" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-70" target="HZ-TQ83FuogPrPlQnaqr-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-70" value="Introduction to Number Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="1080" width="397" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-71" value="Elementary Number Theory&lt;br&gt;&lt;b&gt;David Burton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-70" vertex="1">
+          <mxGeometry x="109" y="40" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-72" value="Elementary Number Theory with Applications&lt;br&gt;&lt;b&gt;Thomas Koshy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-70" vertex="1">
+          <mxGeometry x="20" y="120" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-73" value="&lt;div&gt;Elementary Number Theory&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kenneth H. Rosen&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-70" vertex="1">
+          <mxGeometry x="200" y="120" width="170" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-79" target="XHwMdBdWKg2Phqc04OuS-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-79" value="Introduction to Combinatorics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-119.99714285714276" y="1080" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-80" value="Combinatorial Reasoning: An Introduction to the Art of Counting&lt;br&gt;&lt;b&gt;Duane DeTemple, William Webb&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
+          <mxGeometry x="20" y="45" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-81" value="Combinatorics: An Introduction&lt;br&gt;&lt;b&gt;Theodore G. Faticoni&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
+          <mxGeometry x="20" y="130" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-82" value="How to Count: An Introduction to Combinatorics and Its Applications&lt;br&gt;&lt;b&gt;Robert A. Beeler&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
+          <mxGeometry x="190" y="130" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-83" value="Introductory Combinatorics&lt;br&gt;&lt;b&gt;Richard A. Brualdi&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
+          <mxGeometry x="240" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-85" value="Euclidean and Non-Euclidean Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-2030" y="639" width="548" height="402.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-86" value="Foundations of Euclidean and Non-Euclidean Geometry&lt;br&gt;&lt;b&gt;Ellery B. Golos&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="103.5" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-87" value="Foundations of Geometry&lt;br&gt;&lt;b&gt;Gerard A. Venema&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="309.5" y="40" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-88" value="Euclidean and Non-Euclidean Geometry&lt;br&gt;&lt;b&gt;Marvin Jay Greenberg&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="15" y="115" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-91" value="Modern Geometries&lt;br&gt;&lt;b&gt;John R. Smart&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="395" y="115" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-95" value="The Four Pillars of Geometry&lt;br&gt;&lt;b&gt;John Stillwell&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="217" y="115" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-50" value="A Modern View of Geometry&lt;br&gt;&lt;b&gt;Leonard M. Blumenthal&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="15" y="190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-51" value="Classical Geometry&lt;br&gt;&lt;b&gt;I. E. L., J. E. L., A. C. F. L., G. W. T.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="211.75" y="190" width="160.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-52" value="Euclidean Geometry&lt;br&gt;&lt;b&gt;M. Solomonovich&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="390" y="190" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-89" value="Geometry&lt;br&gt;&lt;b&gt;D. A. Brannan,&amp;nbsp;M. F. Esplen, J. J. Gray&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="213.5" y="260" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-90" value="Introduction To Non-Euclidean Geometry&lt;br&gt;&lt;b&gt;Harold E. Wolfe&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="15" y="260" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-92" value="Modern Geometry with Applications&lt;br&gt;&lt;b&gt;George A. Jennings&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="380" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-93" value="Projective Geometry&lt;br&gt;&lt;b&gt;H. S. M. Coxeter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="217" y="332" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-94" value="Transformation Geometry&lt;br&gt;&lt;b&gt;George E. Martin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="379" y="332" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-96" value="The Foundations of Geoemtry and the Non-Euclidean Plane&lt;br&gt;&lt;b&gt;George E. Martin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
+          <mxGeometry x="15" y="332" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-100" target="HZ-TQ83FuogPrPlQnaqr-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-100" target="XHwMdBdWKg2Phqc04OuS-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-960" y="1500" />
+              <mxPoint x="-960" y="2205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-100" target="XHwMdBdWKg2Phqc04OuS-162" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-670" y="1320" />
+              <mxPoint x="-2149" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-100" value="Introduction to General Topology" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="1400" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-101" value="Topology&lt;br&gt;&lt;b&gt;James Munkres&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="377" y="120" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-102" value="General Topology&lt;br&gt;&lt;b&gt;Stephen Willard&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="13" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-103" value="Topology Without Tears&lt;br&gt;&lt;b&gt;Sidney A. Morris&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="13" y="120" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-104" value="Topological Spaces&lt;br&gt;&lt;b&gt;Gerard Buskes, Arnoud van Rooij&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="350" y="40" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-105" value="Introduction to Metric and Topological Spaces&lt;br&gt;&lt;b&gt;Wilson A. Sutherland&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="180" y="120" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-107" value="First Concepts of Topology&lt;br&gt;&lt;b&gt;W. G. Chinn &amp;amp; N. E. Steenrod&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
+          <mxGeometry x="150" y="40" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-110" target="HZ-TQ83FuogPrPlQnaqr-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-110" target="XHwMdBdWKg2Phqc04OuS-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-110" target="XHwMdBdWKg2Phqc04OuS-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1081" y="1630" />
+              <mxPoint x="1060" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-110" target="XHwMdBdWKg2Phqc04OuS-162" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-110" target="XHwMdBdWKg2Phqc04OuS-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1242" y="1360" />
+              <mxPoint x="-2605" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-110" value="Introduction to Abstract Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1322.25" y="1400" width="321.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-111" value="Contemporary Abstract Algebra&lt;br&gt;&lt;b&gt;Joseph A. Gallian&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
+          <mxGeometry x="11.5" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-112" value="Algebra Abstract and Concrete&lt;br&gt;&lt;b&gt;Frederick Goodman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
+          <mxGeometry x="11.5" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-113" value="A First Course in Abstract Algebra&lt;br&gt;&lt;b&gt;Joseph J. Rotman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
+          <mxGeometry x="173.5" y="120" width="136.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-114" value="Algebra&lt;br&gt;&lt;b&gt;Michael Artin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
+          <mxGeometry x="169" y="40" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-119" value="Introduction to Numercial Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="1400" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-120" value="Numerical Analysis Richard Burden, Jr. &lt;b&gt;Douglas Faires&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-119" vertex="1">
+          <mxGeometry x="160" y="40" width="140" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-121" value="Numerical Analysis&lt;br&gt;&lt;b&gt;Timothy Sauer&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-119" vertex="1">
+          <mxGeometry x="15" y="40" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-122" value="Numerical Methods That Usually Work &lt;b&gt;Forman S. Acton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-119" vertex="1">
+          <mxGeometry x="15" y="110" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-123" value="An Introduction to Numerical Methods and Analysis&lt;br&gt;&lt;b&gt;James F. Epperson&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-119" vertex="1">
+          <mxGeometry x="150" y="115" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-127" target="XHwMdBdWKg2Phqc04OuS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-127" target="XHwMdBdWKg2Phqc04OuS-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-127" target="HZ-TQ83FuogPrPlQnaqr-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-127" value="Advanced Linear Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1334.75" y="1720" width="346.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-128" value="&lt;span&gt;Linear Algebra Done Right&lt;br&gt;&lt;b&gt;Sheldon Axler&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
+          <mxGeometry x="18" y="40" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-129" value="&lt;span&gt;Linear Algebra&lt;br&gt;&lt;b&gt;Serge Lang&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-130" value="Finite-Dimensional Vector Spaces&lt;br&gt;&lt;b&gt;Paul R. Halmos&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
+          <mxGeometry x="18" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-133" value="Linear Algebra Done Wrong&lt;br&gt;&lt;b&gt;Sergei Treil&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
+          <mxGeometry x="194.75" y="120" width="135.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-137" value="Linear Algebra&lt;br&gt;&lt;b&gt;Georgi E. Shilov &amp;amp; Richard A. Silverman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
+          <mxGeometry x="72.25" y="200" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-138" target="HZ-TQ83FuogPrPlQnaqr-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-138" value="Introduction to Complex Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-746.5" y="1720" width="428" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-139" value="&lt;span&gt;Complex Analysis&lt;br&gt;&lt;b&gt;John M. Howie&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
+          <mxGeometry x="16.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-140" value="&lt;span&gt;Complex Analysis with Applications&lt;br&gt;&lt;b&gt;Dennis G. Zill&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
+          <mxGeometry x="258" y="120" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-141" value="&lt;span&gt;Complex Variables and Applications&lt;br&gt;&lt;b&gt;James Ward Brown, Ruel Churchill&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
+          <mxGeometry x="18" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-142" value="&lt;span&gt;Complex Variables&lt;br&gt;&lt;b&gt;Mark J. Ablowitz&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
+          <mxGeometry x="156" y="40" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-143" value="&lt;span&gt;Visual Complex Analysis&lt;br&gt;&lt;b&gt;Tristan Needham&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
+          <mxGeometry x="287.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-147" target="XHwMdBdWKg2Phqc04OuS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-147" value="Introduction to Functional Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-926.5" y="2440" width="325" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-148" value="Introductory Functional Analysis with Applications&lt;br&gt;&lt;b&gt;Erwin Kreyszig&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-147" vertex="1">
+          <mxGeometry x="13.5" y="40" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-150" value="&lt;div&gt;Principles of Functional Analysis&lt;/div&gt;&lt;div&gt;&lt;b&gt;Martin Schechter&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-147" vertex="1">
+          <mxGeometry x="169" y="40" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-153" target="HZ-TQ83FuogPrPlQnaqr-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-153" target="XHwMdBdWKg2Phqc04OuS-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-153" target="XHwMdBdWKg2Phqc04OuS-188" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-153" value="Introduction to Mathematical Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-932.5" y="2040" width="337" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-154" value="Principles of Mathematical Analysis&lt;br&gt;&lt;b&gt;Walter Rudin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="19" y="40" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-155" value="Mathematical Analysis&lt;br&gt;&lt;b&gt;Tom Apostol&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="18.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-156" value="Methods of Real Analysis&lt;br&gt;&lt;b&gt;Richard R. Goldberg&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="154" y="120" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-157" value="The Elements of Real Analysis&lt;br&gt;&lt;b&gt;Robert G. Bartle&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="191.5" y="40" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-158" value="Advanced Calculus of Several Variables&lt;br&gt;&lt;b&gt;C. H. Edwards Jr.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="18" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-159" value="Calculus and Analysis in Euclidean Space&lt;br&gt;&lt;b&gt;Jerry Shurman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
+          <mxGeometry x="168" y="200" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-1" value="Advanced Mathematical Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-919.75" y="2680" width="311.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-2" value="Real Analysis&lt;br&gt;&lt;b&gt;H.L. Royden, P.M. Fitzpatrick&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-1" vertex="1">
+          <mxGeometry x="170" y="120" width="129.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-3" value="Real Analysis&lt;br&gt;&lt;b&gt;Gerald B. Folland&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-1" vertex="1">
+          <mxGeometry x="20.5" y="120" width="129.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-4" value="Real Analysis&lt;br&gt;&lt;b&gt;Elias M. Stein, Rami Shakarch&lt;/b&gt;i" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-1" vertex="1">
+          <mxGeometry x="20.5" y="40" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-5" value="Real and Complex Analysis&lt;br&gt;&lt;b&gt;Walter Rudin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-1" vertex="1">
+          <mxGeometry x="169.75" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-8" target="XHwMdBdWKg2Phqc04OuS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-8" target="XHwMdBdWKg2Phqc04OuS-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="1910" />
+              <mxPoint x="-1380" y="2380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-8" target="XHwMdBdWKg2Phqc04OuS-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1579" y="1660" />
+              <mxPoint x="610" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-8" value="Motivation for Category Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1870" y="1760" width="388" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-9" value="&lt;span&gt;Conceptual Mathematics&lt;br&gt;&lt;b&gt;F. William Lawvere, Stephen H. Schanuel&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-8" vertex="1">
+          <mxGeometry x="110" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-10" value="&lt;span&gt;Sets for Mathematics&lt;br&gt;&lt;b&gt;F.W. Lawvere, R. Rosebrugh&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-8" vertex="1">
+          <mxGeometry x="12" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-11" value="&lt;span&gt;Arrows Structures and Functors: The Categorical Imperative&lt;br&gt;&lt;b&gt;Michael A. Arbib&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-8" vertex="1">
+          <mxGeometry x="160" y="120" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-15" value="Introduction to Category Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1846" y="2080" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-16" value="&lt;span&gt;Category Theory&lt;br&gt;&lt;b&gt;Steve Awodey&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
+          <mxGeometry x="22" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-17" value="&lt;span&gt;Basic Category Theory&lt;br&gt;&lt;b&gt;Tom Leinster&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
+          <mxGeometry x="22" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-18" value="&lt;span&gt;Abstract and Concrete Categories The Joy of Cats&lt;br&gt;&lt;b&gt;Jiri Adamek&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
+          <mxGeometry x="160" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-19" value="&lt;span&gt;Category Theory: A Gentle Introduction&lt;br&gt;&lt;b&gt;Peter Smith&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
+          <mxGeometry x="90" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-21" value="Category Theory in Context&lt;br&gt;&lt;b&gt;Emily Riehl&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
+          <mxGeometry x="160" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-24" target="XHwMdBdWKg2Phqc04OuS-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-24" value="Advanced Abstract Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1328" y="2270" width="333" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-25" value="&lt;span&gt;Algebra&lt;br&gt;&lt;b&gt;Thomas Hungerford&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="23" y="40" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-26" value="&lt;span&gt;Abstract Algebra&lt;br&gt;&lt;b&gt;David S. Dummit, Richard M. Foote&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="170" y="40" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-27" value="&lt;span&gt;Advanced Modern Algebra&lt;br&gt;&lt;b&gt;Joseph J. Rotman&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="21" y="120" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-28" value="&lt;span&gt;Algebra&lt;br&gt;&lt;b&gt;Serge Lang&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="21" y="280" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-29" value="&lt;span&gt;Algebra: A Graduate Course&lt;br&gt;&lt;b&gt;I. Martin Isaacs&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="168" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-30" value="&lt;span&gt;Algebra: Chapter 0&lt;br&gt;&lt;b&gt;Paolo Aluffi&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="171.5" y="280" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-31" value="Algebra&lt;br&gt;&lt;b&gt;Paul M. Cohn&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="21" y="200" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-32" value="A Course in Algebra &lt;b&gt;E.B. Vinberg&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="173" y="200" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-33" value="Introduction to Commutative Algebra&lt;br&gt;&lt;b&gt;M. F. Atiyah &amp;amp; I. G. MacDonald&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
+          <mxGeometry x="72" y="360" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-54" value="Universal Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1000" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-55" value="An Invitation to General Algebra and Universal Constructions &lt;br&gt;&lt;b&gt;George M. Bergman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="145" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-56" value="A Course in Universal Algebra&lt;br&gt;&lt;b&gt;Stanley Burris, H.P. Sankappanavar&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="145" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-57" value="Universal Algebra&lt;br&gt;&lt;b&gt;G. Gratzer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="15" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-58" value="Universal Algebra&lt;br&gt;&lt;b&gt;P.M. Cohn&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-59" value="Universal Algebra&lt;br&gt;&lt;b&gt;Clifford Bergman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="15" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-60" value="Post-Modern Algebra&lt;br&gt;&lt;b&gt;Jonathan D. H. Smith, Anna B. Romanowska&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
+          <mxGeometry x="145" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-64" value="Introduction to Lattice Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1020" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-65" value="Introduction to Lattices and Order&lt;br&gt;&lt;b&gt;B.A. Davey&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-64" vertex="1">
+          <mxGeometry x="145" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-68" value="Lattices and Ordered Sets&lt;br&gt;&lt;b&gt;Steven Roman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-64" vertex="1">
+          <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-73" value="Algebraic Number Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1311.5" y="2840" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-74" value="&lt;div&gt;An Introduction to the Theory of Numbers&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ivan Niven, Herbert S. Zuckerman, Hugh L. Montgomery&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-73" vertex="1">
+          <mxGeometry x="17" y="120" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-75" value="&lt;div&gt;Number Fields&lt;/div&gt;&lt;div&gt;&lt;b&gt;Daniel A. Marcus&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-73" vertex="1">
+          <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-78" target="XHwMdBdWKg2Phqc04OuS-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-78" target="XHwMdBdWKg2Phqc04OuS-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-78" value="Introduction to Probability Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1720" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-79" value="A First Course in Probability Theory&lt;br&gt;&lt;b&gt;Sheldon Ross&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-78" vertex="1">
+          <mxGeometry x="225" y="40" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-80" value="A Natural Introduction to Probability&lt;br&gt;&lt;b&gt;R. Meester&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-78" vertex="1">
+          <mxGeometry x="22" y="120" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-81" value="Inroduction to Probability&lt;br&gt;&lt;b&gt;Dimitri Berstekas, John N. Tsitsiklis&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-78" vertex="1">
+          <mxGeometry x="22" y="40" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-82" value="Introduction to Probability&lt;br&gt;&lt;b&gt;Joseph K. Blitzstein, Jessica Hwang&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-78" vertex="1">
+          <mxGeometry x="225" y="120" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-84" target="XHwMdBdWKg2Phqc04OuS-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-84" value="Introduction to Mathematical Statistics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="110" y="2040" width="540" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-85" value="An Introduction to Mathematical Statistics and Its Applications&lt;br&gt;&lt;b&gt;Richard Larsen, Morris Marx&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="280" y="38" width="238" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-88" value="Modern Mathematical Statistics with Applications&lt;br&gt;&lt;b&gt;Jay L. Devore, Kenneth N. Berk&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="280" y="200" width="238" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-89" value="A Modern Introduction to Probability and Statistics: Understanding Why and How&lt;br&gt;&lt;b&gt;F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="26" y="195" width="234" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-90" value="Introduction to Probability and Mathematical Statistics&lt;br&gt;&lt;b&gt;Lee J. Bain, Max Engelhardt&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="26" y="38" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-86" value="&lt;div&gt;Introduction to Mathematical Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Robert V. Hogg, Joseph W. McKean, Allen T. Craig&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="280" y="120" width="238" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-87" value="&lt;div&gt;Mathematical Statistics with Applications&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
+          <mxGeometry x="26" y="120" width="238" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-94" target="XHwMdBdWKg2Phqc04OuS-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-94" target="XHwMdBdWKg2Phqc04OuS-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-94" value="Advanced Probability Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2440" width="460" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-95" value="An Introduction to Probability and Statistics&lt;br&gt;&lt;b&gt;V. K. Rohatgi, A. K. Md. E. Saleh&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="20.5" y="40" width="205.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-96" value="A First Look at Rigorous Probability Theory&lt;br&gt;&lt;b&gt;Jeffrey S. Rosenthal&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="250" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-97" value="A User&#39;s Guide to Measure Theoretic Probability&lt;br&gt;&lt;b&gt;David Pollard&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="20.5" y="120" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-98" value="Probability &lt;br&gt;&lt;b&gt;A. N. Shiryayev&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="239.75" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-99" value="Probability and Measure&lt;br&gt;&lt;b&gt;Patrick Billingsley&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="100.25" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-100" value="An Introduction to Probability Theory and Its Applications&lt;br&gt;&lt;b&gt;William Feller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
+          <mxGeometry x="271" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-103" value="Advanced Mathematical Statistics" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="187.5" y="2840" width="385" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-104" value="Statistical Inference&lt;br&gt;&lt;b&gt;George Casella, Roger L. Berger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="24.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-105" value="Mathematical Statistics: Basic Ideas and Selected Topics&lt;br&gt;&lt;b&gt;Kjell A. Doksum, Peter J. Bickel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="160.5" y="40" width="199.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-106" value="Robust Statistics &lt;b&gt;Frank&amp;nbsp; R. H., Elvezio M. R., Peter J. R., Werner A. S.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="170" y="120" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-107" value="Theory of Statistics&lt;br&gt;&lt;b&gt;Mark J. Schervish&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="24.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-91" value="All of Statistics&lt;br&gt;&lt;b&gt;Larry Wasserman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="24.5" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-92" value="All of Nonparametric Statistics&lt;br&gt;&lt;b&gt;Larry Wasserman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
+          <mxGeometry x="175" y="190" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-109" target="XHwMdBdWKg2Phqc04OuS-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-109" value="Introduction to Statistics" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="800" y="2049.9964705882353" width="305" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-110" value="&lt;div&gt;OpenIntro Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
+          <mxGeometry x="52.5" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-111" value="&lt;div&gt;Introductory Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Sheldon M. Ross&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
+          <mxGeometry x="15" y="110" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-112" value="&lt;div&gt;Introductory Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Neil A. Weiss&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
+          <mxGeometry x="160" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-113" value="&lt;div&gt;Elementary Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allan G. Bluman&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
+          <mxGeometry x="15" y="40" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-114" value="&lt;div&gt;Introductory Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Prem S. Mann&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
+          <mxGeometry x="160" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-116" value="Philosophy of Probability and Statistics" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="760" y="2428.75" width="330" height="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-117" value="&lt;div&gt;Interpreting Probability: Controversies and Developments in the early twentieth century&lt;/div&gt;&lt;div&gt;&lt;b&gt;David Howie&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="36.5" y="175" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-118" value="&lt;div&gt;An Introduction to Probability and Inductive Logic&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ian Hacking&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="20" y="35" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-119" value="&lt;div&gt;The Foundations of Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Leonard J. Savage&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="180" y="35" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-120" value="&lt;div&gt;Probability Theory: The Logic of Science&lt;/div&gt;&lt;div&gt;&lt;b&gt;E. T. Jaynes&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="20" y="105" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-121" value="&lt;div&gt;Reasoning About Uncertainty&lt;/div&gt;&lt;div&gt;&lt;b&gt;Joseph Y. Halpern&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="180" y="105" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-123" value="Bayesian Theory&lt;br&gt;&lt;b&gt;Jose M. Bernardo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="20" y="245" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-124" value="Theory of Probability&lt;br&gt;&lt;b&gt;Bruno de Finetti&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
+          <mxGeometry x="160" y="245" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-125" value="Introduction to Game Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1685" width="289" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-126" value="&lt;div&gt;Strategy&lt;/div&gt;&lt;div&gt;&lt;b&gt;Joel Watson&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-125" vertex="1">
+          <mxGeometry x="156" y="34.94117647058829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-127" value="&lt;div&gt;Game Theory&lt;/div&gt;&lt;div&gt;&lt;b&gt;Steven Tadelis&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-125" vertex="1">
+          <mxGeometry x="16" y="34.94117647058829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-128" value="&lt;div&gt;Game Theory: A Critical Introduction&lt;/div&gt;&lt;div&gt;&lt;b&gt;Shaun P. Hargreaves Heap, Yanis Varoufakis&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-125" vertex="1">
+          <mxGeometry x="21" y="114.94117647058829" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-129" value="&lt;div&gt;Game Theory Evolving: A Problem-Centered Introduction to Modeling Strategic Interaction&lt;/div&gt;&lt;div&gt;&lt;b&gt;Herbert Gintis&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-125" vertex="1">
+          <mxGeometry x="16" y="194.9411764705883" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-133" target="XHwMdBdWKg2Phqc04OuS-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-133" value="Introduction to Optimization Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="2041" width="430" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-134" value="A First Course in Optimization Theory&lt;br&gt;&lt;b&gt;Rangarajan K. Sundaram&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
+          <mxGeometry x="19" y="40" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-135" value="Introduction to Linear Optimization&lt;br&gt;&lt;b&gt;Dimitris Bertsimas. John N. Tsitsiklis&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
+          <mxGeometry x="210" y="40" width="201.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-136" value="Applied Optimization&lt;br&gt;&lt;b&gt;Ross Baldick&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
+          <mxGeometry x="18" y="118.5" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-137" value="An Introduction to Optimization&lt;br&gt;&lt;b&gt;Edwin K.P. Chong, Stanislaw H. Zak&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
+          <mxGeometry x="100" y="198.5" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-138" value="Practical Optimization&lt;br&gt;&lt;b&gt;Philip E. Gill, Walter Murray, Margaret H. Wright&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
+          <mxGeometry x="231.5" y="118.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-139" value="Convex Optimization" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-443" y="2400.5" width="396" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-140" value="Convex Optimization Theory&lt;br&gt;&lt;b&gt;Dimitri P. Bertsekas&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-139" vertex="1">
+          <mxGeometry x="19" y="40" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-141" value="Convex Optimization&lt;br&gt;&lt;b&gt;Stephen Boyd, Lieven Vandenberghe&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-139" vertex="1">
+          <mxGeometry x="200" y="40" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-142" value="Convex Analysis and Nonlinear Optimization&lt;br&gt;&lt;b&gt;Jonathan M. Borwein, Adrian S. Lewis&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-139" vertex="1">
+          <mxGeometry x="18" y="118.5" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-143" value="Foundations of Optimization&lt;br&gt;&lt;b&gt;Osman Güler&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-139" vertex="1">
+          <mxGeometry x="204" y="118.5" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-162" target="XHwMdBdWKg2Phqc04OuS-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-162" value="Algebraic Topology Motivation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="1400" width="302" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-163" value="Invitation to Combinatorial Topology&lt;br&gt;&lt;b&gt;Maurice Frechet and Ky Fan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
+          <mxGeometry x="26" y="40" width="254" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-164" value="Basic Concepts of Algebraic Topology&lt;br&gt;&lt;b&gt;Fred H. Croom&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
+          <mxGeometry x="26" y="114.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-165" value="Basic Topology&lt;br&gt;&lt;b&gt;M.A. Armstrong&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
+          <mxGeometry x="158" y="114.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-166" value="Topology&lt;br&gt;&lt;b&gt;John G. Hocking, Gail S. Young&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
+          <mxGeometry x="26" y="189.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-167" value="Topology &lt;br&gt;&lt;b&gt;Klaus Janich&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
+          <mxGeometry x="158" y="189.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-168" value="Introduction to Algebraic Topology" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="1800" width="302" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-169" value="Algebraic Topology: An Introduction&lt;br&gt;&lt;b&gt;William Massey&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-168" vertex="1">
+          <mxGeometry x="20" y="39.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-170" value="Algebraic Topology&lt;br&gt;&lt;b&gt;Allen Hatcher&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-168" vertex="1">
+          <mxGeometry x="166" y="39.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-171" value="Elements of Algebraic Topology&lt;br&gt;&lt;b&gt;James Munkres&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-168" vertex="1">
+          <mxGeometry x="158" y="114.5" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-172" value="A first course in Algebraic Topology&lt;br&gt;&lt;b&gt;C. Kosniowski&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-168" vertex="1">
+          <mxGeometry x="20" y="114.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHwMdBdWKg2Phqc04OuS-178" target="N2863A0XC9Yqkhy7363l-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-178" value="Algebraic Geometry Motivation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2770" y="1400" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-183" value="Introduction to Algebraic Geometry&lt;br&gt;&lt;b&gt;Brendan Hassett&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-178" vertex="1">
+          <mxGeometry x="178.5" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-184" value="Ideals Varieties and Algorithms&lt;br&gt;&lt;b&gt;David A. Cox, John Little, Donal O&#39;Shea&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-178" vertex="1">
+          <mxGeometry x="11.5" y="40" width="157" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-1" value="Introduction to Algebraic Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2755" y="1640" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-2" value="A Royal Road to Algebraic Geometry&lt;br&gt;&lt;b&gt;Audune Holme&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
+          <mxGeometry x="150" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-3" value="Basic Algebraic Geometry&lt;br&gt;&lt;b&gt;Igor R. Shafarevich&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
+          <mxGeometry x="11.5" y="40" width="128.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-8" value="Algebraic Geometry: A First Course&lt;br&gt;&lt;b&gt;Joe Harris&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
+          <mxGeometry x="11.5" y="110" width="118.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-9" value="Elementary Algebraic Geometry&lt;br&gt;&lt;b&gt;Keith Kendig&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
+          <mxGeometry x="150" y="110" width="139.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N2863A0XC9Yqkhy7363l-16" value="Introduction to Algebraic Geometry&lt;br&gt;&lt;b&gt;Justin R. Smith&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
+          <mxGeometry x="80.38000000000011" y="180" width="139.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-188" target="TdLw2zF5TJnS2Xj7bHxv-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-188" value="Introduction to Differential Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="2720" width="370" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-189" value="A Differential Approach to Geometry&lt;br&gt;&lt;b&gt;Francis Borceux&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
+          <mxGeometry x="20" y="42.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-190" value="Differential Geometry of Curves and Surfaces&lt;br&gt;&lt;b&gt;Kristopher Tapp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
+          <mxGeometry x="190" y="42.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-192" value="Differential Geometery of Curves and Surfaces&lt;br&gt;&lt;b&gt;Manfredo P. Do Carmo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
+          <mxGeometry x="20" y="114" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-3" value="Elementary Differential Geometry&lt;br&gt;&lt;b&gt;Barrett O&#39;Neill&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
+          <mxGeometry x="190" y="114" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-4" value="Elementary Differential Geometry&lt;br&gt;&lt;b&gt;Andrew Pressley&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
+          <mxGeometry x="105" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-5" value="Advanced Differential Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="3120" width="370" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-6" value="Manifolds, Tensors and Forms&lt;br&gt;&lt;b&gt;Paul Renteln&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
+          <mxGeometry x="20" y="42.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-7" value="An Introduction to Differentiable Manifolds and Riemannian Geometry&lt;br&gt;&lt;b&gt;William M. Boothby&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
+          <mxGeometry x="190" y="42.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-8" value="Introduction to Smooth Manifolds&lt;br&gt;&lt;b&gt;John M. Lee&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
+          <mxGeometry x="20" y="114" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-9" value="A Comprehensive Introduction to Differential Geometry&lt;br&gt;&lt;b&gt;Michael Spivak&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
+          <mxGeometry x="190" y="114" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-10" value="First Steps in Differential Geometry&lt;br&gt;&lt;b&gt;Andrew Mclnerney&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
+          <mxGeometry x="105" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-1" value="Introduction to Partial Differential Equations" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="325" width="300" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-2" value="Partial Differential Equations for Scientists and Engineers&lt;br&gt;&lt;b&gt;Stanley J. Farlow&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
+          <mxGeometry x="20" y="40" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-3" value="Partial Differential Equations An Introduction&lt;br&gt;&lt;b&gt;Walter A. Strauss&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
+          <mxGeometry x="20" y="195" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-4" value="Linear Partial Differential Equations&lt;br&gt;&lt;b&gt;Tyn Myint-U &amp;amp; Lokenath Debanath&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
+          <mxGeometry x="20" y="115" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-6" value="Partial Differential Equations&lt;br&gt;&lt;b&gt;Mark A. Pinsky&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
+          <mxGeometry x="20" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
