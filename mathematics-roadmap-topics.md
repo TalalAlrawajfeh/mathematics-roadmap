@@ -52,6 +52,8 @@ Mathematical Discovery: On Understanding, Learning and Teaching Problem Solving,
 ### **Introduction to Physics (Optional):**
 Physics for Scientists and Engineers with Modern Physics
  Raymond A. Serway, John W. Jewett Jr.
+ 
+The Feynman Lectures on Physics
 
 An Introduction to Physical Science
 James T. Shipman, Jerry D. Wilson, Charles A. Higgens Jr.
